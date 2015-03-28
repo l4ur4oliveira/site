@@ -1,0 +1,4 @@
+*.txt
+old
+docpad/node_modules
+docpad/out

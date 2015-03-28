@@ -1,0 +1,64 @@
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+a,
+a:hover, a:active, a:focus,
+input::-moz-focus-inner {
+   outline: 0;
+   border: 0;
+}
+body { background-color: #689; }
+
+.wrapper {
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.photo {
+	position: relative;
+	top: 30px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	box-shadow: 0px 5px 1px #689;
+}
+.name {
+	width: 100%;
+	margin: 10px 0;
+	padding: 20px 0;
+	font-size: 1.8em;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #578;
+	border-bottom: 2px solid #467;
+}
+.introduction {
+	font-size: 1.2em;
+	color: #245;	
+}
+.contact {
+	margin-top: 80px;
+	color: #245;
+}
+.social-icons a {
+	display: inline-block;
+	margin: 0 8px;
+}
+/*--- Sprite Social ---*/
+span[class*="ico-"] {
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	background-image: url('../img/sprite-social.png');
+	background-repeat: no-repeat;
+}
+.ico-facebook { background-position: left top; }
+.ico-github { background-position: -80px top; }
+.ico-linkedin { background-position: -160px top; }
+.ico-twitter { background-position: right top; }
+.ico-facebook:hover { background-position: left bottom; }
+.ico-github:hover { background-position: -80px bottom; }
+.ico-linkedin:hover { background-position: -160px bottom; }
+.ico-twitter:hover { background-position: right bottom; }
