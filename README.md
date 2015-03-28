@@ -6,4 +6,4 @@ Sou formada em Sistemas de Informação e atualmente estou me especializando em 
 
 Nesse repositório muito em breve incluirei minha página pessoal com mais informações.
 
-Mais informações [na minha página](http://l4ur4oliveira.github.io/lauraoliveira.github.com/ "Laura de Oliveira"). ;)
+Mais informações [na minha página](http://l4ur4oliveira.github.io/site/ "Laura de Oliveira"). ;)
