@@ -1,3 +1,4 @@
+<h2 class="section-title"><%= @labels['experience'] %></h2>
 <p>
 	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, ipsum debitis totam accusantium ratione veritatis perferendis excepturi non culpa voluptatem! Provident necessitatibus excepturi nobis soluta tenetur veniam iusto alias consequatur?
 </p>

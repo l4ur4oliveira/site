@@ -1,0 +1,15 @@
+<h2 class="section-title">Find Me:</h2>
+<div class="social-icons">
+	<a href="https://www.facebook.com/l4ur4oliveira?_rdr" target="_blank" title="Contact me on Facebook">
+		<span class="ico-facebook"></span>
+	</a>
+	<a href="https://github.com/l4ur4oliveira" target="_blank" title="My Github">
+		<span class="ico-github"></span>
+	</a>
+	<a href="https://br.linkedin.com/in/l4ur4oliveira" target="_blank" title="Contact me on Linkedin">
+		<span class="ico-linkedin"></span>
+	</a>
+	<a href="https://twitter.com/l4ur4oliveira" target="_blank" title="Contact me on Twitter">
+		<span class="ico-twitter"></span>
+	</a>
+</div>
