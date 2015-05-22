@@ -1,0 +1,25 @@
+---
+title: "My Page"
+layout: default
+---
+
+<section class="wrapper">
+	<img class="photo" src="http://stickerish.com/wp-content/themes/mio/sp-framework/timthumb/timthumb.php?src=http://stickerish.com/wp-content/uploads/2012/03/NothingToDoHereBlackWithTextSS.png&h=500&w=500&zc=2&q=100&a=c&s=&f=&cc=&ct=" width="150" alt="Laura de Oliveira">
+	<!-- <img class="photo" src="https://avatars0.githubusercontent.com/u/4943158?v=3&s=460" alt="Laura de Oliveira"> -->
+	
+	<h1 class="name">Testando</h1>
+	<!-- <h1 class="name">Laura de Oliveira</h1> -->
+	
+	<p class="introduction">
+		<!-- Front-end developer extremely obsessed by the correct things. -->
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+	</p>
+
+	<h3 class="contact">Contact Me:</h3>
+	<div class="social-icons">
+		<a href="https://www.facebook.com/l4ur4oliveira?_rdr" target="_blank" title="Contact me on Facebook"><span class="ico-facebook"></span></a>
+		<a href="https://github.com/l4ur4oliveira" target="_blank" title="My Github"><span class="ico-github"></span></a>
+		<a href="https://br.linkedin.com/in/l4ur4oliveira" target="_blank" title="Contact me on Linkedin"><span class="ico-linkedin"></span></a>
+		<a href="https://twitter.com/l4ur4oliveira" target="_blank" title="Contact me on Twitter"><span class="ico-twitter"></span></a>
+	</div>
+</section>

@@ -1,4 +1,3 @@
 *.txt
-old
-docpad/node_modules
-docpad/out
+node_modules
+out
